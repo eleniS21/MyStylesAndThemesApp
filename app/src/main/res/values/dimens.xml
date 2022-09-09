@@ -7,9 +7,13 @@
     <dimen name="textViewTopMargin">80dp</dimen>
     <dimen name="textViewEndMargin">104dp</dimen>
     <dimen name="editTextEndMargin">56dp</dimen>
-    <dimen name="editTextBotMargin">330dp</dimen>
+    <dimen name="editTextBotMargin">400dp</dimen>
     <dimen name="buttonEndMargin">144dp</dimen>
-    <dimen name="buttonTopMargin">300dp</dimen>
+    <dimen name="buttonTopMargin">330dp</dimen>
     <dimen name="buttonWidth">120dp</dimen>
     <dimen name="buttonHeight">60dp</dimen>
+    <dimen name="button2BotMarg">430dp</dimen>
+    <dimen name="fontsize">25sp</dimen>
+    <dimen name="fontLarge">35sp</dimen>
+
 </resources>

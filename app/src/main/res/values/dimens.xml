@@ -13,7 +13,6 @@
     <dimen name="buttonWidth">120dp</dimen>
     <dimen name="buttonHeight">60dp</dimen>
     <dimen name="button2BotMarg">430dp</dimen>
-
     <dimen name="fontsize">25sp</dimen>
     <dimen name="fontLarge">35sp</dimen>
 

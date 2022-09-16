@@ -17,6 +17,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:id="@+id/button"
         android:layout_width="@dimen/buttonWidth"
         android:layout_height="@dimen/buttonHeight"
         android:layout_marginTop="@dimen/buttonTopMargin"
@@ -33,6 +34,7 @@
         android:layout_marginEnd="@dimen/textViewEndMargin"
         android:text="Welcome"
         android:textAlignment="center"
+        android:textColor="@color/primaryTextColor"
         android:textSize="@dimen/fontLarge"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -48,6 +50,7 @@
         android:inputType="textPersonName"
         android:text=""
         android:textSize="@dimen/fontsize"
+        android:textColor="@color/primaryTextColor"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
